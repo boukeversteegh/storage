@@ -215,8 +215,6 @@ namespace Storage.Net.Messaging
                return msg;
             }
          }
-
-         throw new NotImplementedException();
       }
    }
 }
